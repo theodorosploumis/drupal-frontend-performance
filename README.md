@@ -75,15 +75,6 @@
 - [ ]  Do not ship unused css, js
 - [ ] Try to clone external js/css to local server and load them from there (eg Google Analytics script)
 
-### 1.5.1 CDN with free tiers
-- https://anyone.cdn.biz.id
-- https://jetpack.com/pricing
-- https://www.cloudflare.com/plans
-- https://shift8cdn.com
-- https://www.coralcdn.org
-- https://cloudinary.com
-- https://github.com/thumbor/thumbor (OS self-hosted)
-
 ## 1.6 Fonts
 
 - [ ] Fonts should always load `woff2` first
@@ -282,7 +273,16 @@
 - https://github.com/mishoo/UglifyJS2
 - https://github.com/cssnano/cssnano
 
-## 3.12 Other tools
+## 3.12 CDN with free tiers
+- https://anyone.cdn.biz.id
+- https://jetpack.com/pricing
+- https://www.cloudflare.com/plans
+- https://shift8cdn.com
+- https://www.coralcdn.org
+- https://cloudinary.com
+- **https://github.com/thumbor/thumbor** (OS, self-hosted)
+
+## 3.13 Other tools
 - **https://instant.page**
 - https://github.com/turbolinks/turbolinks
 - [CodePen - Performance Budget Builder](https://codepen.io/bradfrost/pen/EPQVBp)
