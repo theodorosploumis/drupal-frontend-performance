@@ -18,7 +18,7 @@
 ## 1.2 Images
 
 - [ ] Always use next gen formats
-  - [ ] webp -> chrome/firefox
+  - [ ] webp -> chrome/firefox (Also use https://modernizr.com to inspect WebP support)
   - [ ] jpeg xr -> ie11/edge
   - [ ] jpeg 2000 -> safari
 - [ ] Use jpg for photography, not png
@@ -167,6 +167,8 @@
 
 ## 3.2 Performance scoring - Offline (local installed)
 - https://www.sitespeed.io
+- https://github.com/sitespeedio/coach
+- https://www.sitespeed.io/documentation/throttle
 - https://developers.google.com/web/tools/lighthouse
 - https://github.com/gmetais/YellowLabTools
 - https://github.com/sitespeedio/browsertime
@@ -214,11 +216,75 @@
 - https://github.com/theKashey/used-styles
 - https://github.com/filamentgroup/loadCSS
 
-## 3.8 Other tools
-- https://instant.page
+## 3.8 Image optimization - Online
+- https://resmush.it
+- https://convertio.co/jpg-webp
+- https://kraken.io
+- https://www.gumlet.com
+- https://imageoptim.com
+- https://imagekit.io
+- https://tinypng.com
+- https://tinyjpg.com
+- https://compressjpeg.com
+- https://compresspng.com
+- https://way2enjoy.com/compress-jpeg
+- https://shortpixel.com
+- https://imagify.io
+- https://optimole.com
+- https://compressor.io/compress
+- https://squoosh.app
+- https://imageengine.io
+- https://blinkloader.com
+- https://www.jpegmini.com
+- http://thumborize.me
+
+## 3.9 Image optimization - Offline CLI
+**WebP**
+- https://github.com/imagemin/imagemin-webp
+
+**JPEG**
+- https://github.com/tjko/jpegoptim
+- https://github.com/danielgtaylor/jpeg-archive
+- https://github.com/technopagan/adept-jpg-compressor
+- https://github.com/imagemin/jpeg-recompress-bin
+- https://github.com/mozilla/mozjpeg
+- https://github.com/google/butteraugli
+- https://github.com/google/guetzli
+
+**PNG**
+- https://pngquant.org
+- https://github.com/shssoichiro/oxipng
+
+**SVG**
+- https://github.com/svg/svgo
+- https://github.com/jkphl/svg-sprite
+
+**GIF**
+- https://github.com/kohler/gifsicle
+
+**General**
+- https://github.com/libvips/libvips
+- https://github.com/imagemin/imagemin
+- https://github.com/imagemin/imagemin-cli
+- https://github.com/lovell/sharp
+- https://github.com/google/zopfli
+- https://github.com/charlyie/resmushit-cli
+
+## 3.10 Image optimization - Offline GUI
+- https://www.xnview.com/en/xnconvert
+- https://trimage.org
+- https://pnggauntlet.com
+- https://jakearchibald.github.io/svgomg
+- https://hvdwolf.github.io/pyExifToolGUI
+- https://github.com/imagemin/imagemin-app
+
+## 3.11 Minify CSS/JS
+- https://github.com/mishoo/UglifyJS2
+- https://github.com/cssnano/cssnano
+
+## 3.12 Other tools
+- **https://instant.page**
 - https://github.com/turbolinks/turbolinks
-- https://github.com/sitespeedio/coach
-- https://www.sitespeed.io/documentation/throttle
 - [CodePen - Performance Budget Builder](https://codepen.io/bradfrost/pen/EPQVBp)
 - https://github.com/tkadlec/grunt-perfbudget
 - https://micmro.github.io/PerfCascade
@@ -233,7 +299,13 @@
 - https://web.dev 
 - https://browserdiet.com
 
-## 4.2 Drupal related articles
+## 4.2 Image Optimization
+- https://images.guide
+- https://jeremy.codes/blog/bulk-image-optimization-in-bash
+- https://jeremy.codes/blog/faster-bulk-image-optimization-in-bash
+- https://guides.wp-bullet.com/batch-optimize-jpg-lossy-linux-command-line-with-jpeg-recompress
+
+## 4.3 Drupal related articles
 - https://www.drupal.org/docs/8/modules/advanced-cssjs-aggregation/advanced-aggregates
 - https://www.drupal.org/docs/8/mobile/front-end-performance
 - https://www.fourkitchens.com/blog/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme
