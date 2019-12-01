@@ -108,7 +108,7 @@
 - https://www.drupal.org/project/seo_checklist
 - https://www.drupal.org/project/html_checker
 - https://www.drupal.org/project/blackfire
-- https://www.drupal.org/project/devel
+- https://www.drupal.org/project/devel (webprofiler)
 - https://www.drupal.org/project/performance_budget
 - https://www.drupal.org/project/perfmon
 
@@ -122,13 +122,17 @@
 - https://www.drupal.org/project/stackpath
 
 ## 2.3 Image optimmizations
+- https://www.drupal.org/docs/8/mobile-guide/responsive-images-in-drupal-8
 - https://www.drupal.org/project/lazy
 - https://www.drupal.org/project/blazy
 - https://www.drupal.org/project/lazyloader
 - https://www.drupal.org/project/fancyload
 - https://www.drupal.org/project/drimage
+- https://www.drupal.org/project/imageapi_optimize
 - https://www.drupal.org/project/imageapi_optimize_webp
 - https://www.drupal.org/project/imageapi_optimize_binaries
+- https://www.drupal.org/project/imagemagick
+- https://www.drupal.org/project/webp
 
 ## 2.4 Other
 - https://www.drupal.org/project/quicklink
@@ -231,7 +235,9 @@
 
 ## 4.2 Drupal related articles
 - https://www.drupal.org/docs/8/modules/advanced-cssjs-aggregation/advanced-aggregates
+- https://www.drupal.org/docs/8/mobile/front-end-performance
 - https://www.fourkitchens.com/blog/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme
+- https://pantheon.io/docs/guides/frontend-performance
 
 ---
 
