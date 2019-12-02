@@ -44,6 +44,7 @@
 # 1. Checklist
 ## 1.1 HTML
 
+- [ ] Core theme [Classy](https://git.drupalcode.org/project/drupal/tree/8.8.x/core/themes/classy) is your friend. Most of the times you could use this a the **base theme** and its templates to make overrides.
 - [ ] Mobile first design except if there is no need
 - [ ] Critical link (aka css) tags are in head
 - [ ] Less critical link tags are end of body
