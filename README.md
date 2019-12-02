@@ -1,6 +1,46 @@
 # Frontend Performance Checklist for Drupal websites
 > A checklist & guide to make sure you (Drupal 8.x) website will be fast! Made for Drupal frontend developers and site builders.
 
+# Table of Contents
+- [Frontend Performance Checklist for Drupal websites](#frontend-performance-checklist-for-drupal-websites)
+- [1. Checklist](#1-checklist)
+  * [1.1 HTML](#11-html)
+  * [1.2 Images](#12-images)
+  * [1.3 CSS](#13-css)
+  * [1.4 JS](#14-js)
+  * [1.5 Assets](#15-assets)
+  * [1.6 Fonts](#16-fonts)
+  * [1.7 PWA](#17-pwa)
+  * [1.8 Server](#18-server)
+- [2. Drupal modules](#2-drupal-modules)
+  * [2.1 Development related](#21-development-related)
+  * [2.2 Caching related](#22-caching-related)
+  * [2.3 Image optimmizations](#23-image-optimmizations)
+  * [2.4 Other](#24-other)
+- [3. Tools](#3-tools)
+  * [3.1 Performance scoring - Online](#31-performance-scoring---online)
+  * [3.2 Performance scoring - Offline (local installed)](#32-performance-scoring---offline--local-installed-)
+  * [3.3 Sprite Generators](#33-sprite-generators)
+  * [3.4 Unused CSS - Online](#34-unused-css---online)
+  * [3.5 Unused CSS - Offline](#35-unused-css---offline)
+  * [3.6 Critical CSS/AboveTheFold CSS - Online](#36-critical-css-abovethefold-css---online)
+  * [3.7 Critical CSS/AboveTheFold CSS - Offline](#37-critical-css-abovethefold-css---offline)
+  * [3.8 Image optimization - Online](#38-image-optimization---online)
+  * [3.9 Image optimization - Offline CLI](#39-image-optimization---offline-cli)
+  * [3.10 Image optimization - Offline GUI](#310-image-optimization---offline-gui)
+  * [3.11 Minify CSS/JS](#311-minify-css-js)
+  * [3.12 CDN with free tiers](#312-cdn-with-free-tiers)
+  * [3.13 Other tools](#313-other-tools)
+- [4. Guides & Resources](#4-guides---resources)
+  * [4.1 Collections of tools, posts etc](#41-collections-of-tools--posts-etc)
+  * [4.2 Image Optimization](#42-image-optimization)
+  * [4.3 Drupal related articles](#43-drupal-related-articles)
+- [5. Similar projects](#5-similar-projects)
+- [6. Licence](#6-licence)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # 1. Checklist
 ## 1.1 HTML
 
