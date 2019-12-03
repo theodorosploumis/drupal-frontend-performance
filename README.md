@@ -66,7 +66,7 @@
 - [ ] Size images properly
 - [ ] Use srcsets for multiple image sizes
 - [ ] Use the `<picture>` element to let the browser select the right image for a scenario
-- [ ] [Lazy load images below the fold](https://aka.terrible.dev/web/lazyimages)
+- [ ] Lazy load images below the fold (see [1](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video), [2](https://imagekit.io/blog/lazy-loading-images-complete-guide))
 
 ## 1.3 CSS
 
