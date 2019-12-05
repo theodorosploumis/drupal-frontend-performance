@@ -139,6 +139,7 @@
 ## 2.1 Development related
 - https://www.drupal.org/project/seo_checklist
 - https://www.drupal.org/project/html_checker
+- https://www.drupal.org/project/healthcheck
 - https://www.drupal.org/project/blackfire
 - https://www.drupal.org/project/devel (webprofiler)
 - https://www.drupal.org/project/performance_budget
