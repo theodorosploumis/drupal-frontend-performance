@@ -302,6 +302,10 @@
 - https://github.com/lovell/sharp
 - https://github.com/google/zopfli
 - https://github.com/charlyie/resmushit-cli
+- https://github.com/psliwa/image-optimizer (PHP library)
+- https://github.com/avalanche123/Imagine (PHP library)
+- https://glide.thephpleague.com (PHP library)
+- http://image.intervention.io (PHP library)
 
 ## 3.10 Image optimization - Offline GUI
 - https://www.xnview.com/en/xnconvert
