@@ -359,6 +359,7 @@
 - https://www.fourkitchens.com/blog/article/use-grunt-and-advagg-inline-critical-css-drupal-7-theme
 - https://pantheon.io/docs/guides/frontend-performance
 - https://thinktandem.io/blog/2020/02/04/drupal-8-performance-tips-and-tricks-for-2020
+- https://www.srijan.net/blog/performance-optimization-for-drupal-websites-intermediate-level
 
 ---
 
