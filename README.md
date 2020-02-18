@@ -271,6 +271,7 @@
 - https://blinkloader.com
 - https://www.jpegmini.com
 - http://thumborize.me
+- https://rokka.io
 
 ## 3.9 Image optimization - Offline CLI
 **WebP**
