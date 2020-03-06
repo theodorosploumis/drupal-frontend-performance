@@ -19,7 +19,7 @@
   * [2.4 Other](#24-other)
 - [3. Tools](#3-tools)
   * [3.1 Performance scoring - Online](#31-performance-scoring---online)
-  * [3.2 Performance scoring - Offline (local installed)](#32-performance-scoring---offline--local-installed-)
+  * [3.2 Performance scoring - Offline (local installed)](#32-performance-scoring---offline-local-installed)
   * [3.3 Sprite Generators](#33-sprite-generators)
   * [3.4 Unused CSS - Online](#34-unused-css---online)
   * [3.5 Unused CSS - Offline](#35-unused-css---offline)
