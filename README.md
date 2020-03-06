@@ -125,9 +125,10 @@
 
 ## 1.7 PWA
 
-- [ ]  Use a service worker to cache assets
-- [ ]  Use a service worker to prefetch pages users will most likely navigate to next
-- [ ]  Support offline, and spotty networks
+- [ ] Use a service worker to cache assets
+- [ ] Use a service worker to prefetch pages users will most likely navigate to next
+- [ ] Support offline, and spotty networks
+- [ ] Make sure that the tracking or other third party js/css files (eg Google Analytics etc) are not included on the PWA
 
 ## 1.8 Server
 
