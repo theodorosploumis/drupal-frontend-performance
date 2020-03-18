@@ -348,6 +348,7 @@
 - https://www.perf-tooling.today
 - https://web.dev 
 - https://browserdiet.com
+- https://css-tricks.com/tools-for-optimizing-svg/
 
 ## 4.2 Image Optimization
 - https://images.guide
