@@ -363,6 +363,7 @@
 - https://pantheon.io/docs/guides/frontend-performance
 - https://thinktandem.io/blog/2020/02/04/drupal-8-performance-tips-and-tricks-for-2020
 - https://www.srijan.net/blog/performance-optimization-for-drupal-websites-intermediate-level
+- [Debug Site Performance Using Web Profiler in Drupal 8 - Youtube, 2016](https://www.youtube.com/watch?v=pHf128w-1QQ)
 
 ---
 
