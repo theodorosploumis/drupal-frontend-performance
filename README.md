@@ -11,7 +11,8 @@
   * [1.5 Assets](#15-assets)
   * [1.6 Fonts](#16-fonts)
   * [1.7 PWA](#17-pwa)
-  * [1.8 Server](#18-server)
+  * [1.8 Network](#18-network)
+  * [1.9 Server](#19-server)
 - [2. Drupal modules](#2-drupal-modules)
   * [2.1 Development related](#21-development-related)
   * [2.2 Caching related](#22-caching-related)
@@ -130,9 +131,13 @@
 - [ ] Support offline, and spotty networks
 - [ ] Make sure that the tracking or other third party js/css files (eg Google Analytics etc) are not included on the PWA
 
-## 1.8 Server
+## 1.8 Network
 
-- [ ] Prefer Nginx over Apache2
+- [ ] Test site with Network Throttling See a [list of common Networks](https://gist.github.com/theodorosploumis/fd4086ee58369b68aea6b0782dc96a2e)
+
+## 1.9 Server
+- [ ] Prefer Nginx over Apache2 (at least as a proxy)
+
 
 ---
 
@@ -348,7 +353,7 @@
 - https://www.perf-tooling.today
 - https://web.dev 
 - https://browserdiet.com
-- https://css-tricks.com/tools-for-optimizing-svg/
+- https://css-tricks.com/tools-for-optimizing-svg
 
 ## 4.2 Image Optimization
 - https://images.guide
