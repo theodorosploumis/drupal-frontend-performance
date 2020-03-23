@@ -133,7 +133,7 @@
 
 ## 1.8 Network
 
-- [ ] Test site with Network Throttling See a [list of common Networks](https://gist.github.com/theodorosploumis/fd4086ee58369b68aea6b0782dc96a2e)
+- [ ] Test site with Network Throttling. See a [list of common Network speed](https://gist.github.com/theodorosploumis/fd4086ee58369b68aea6b0782dc96a2e)
 
 ## 1.9 Server
 - [ ] Prefer Nginx over Apache2 (at least as a proxy)
