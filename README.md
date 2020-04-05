@@ -122,7 +122,7 @@
 - [ ] Fonts should always load `woff2` first
 - [ ] `woff` for fallback
 - [ ] Use `font-display: swap;` to allow the browser to use a fallback font while custom font files are being downloaded.
-- [ ] eot, or truetype is only needed for `IE < 10`
+- [ ] eot or truetype is only needed for `IE < 10`
 
 ## 1.7 PWA
 
@@ -182,6 +182,7 @@
 - https://github.com/Drupal-Jedi/css-tree-shaking
 - https://www.drupal.org/project/pwa
 - https://www.drupal.org/project/fast_404
+- https://www.drupal.org/project/refreshless
 
 ---
 
@@ -202,6 +203,7 @@
 - https://www.gumlet.com/analyzer
 - https://www.dareboost.com
 - https://www.checkbot.io
+- https://whatdoesmysitecost.com
 - https://compare.sitespeed.io (Beta)
 
 ## 3.2 Performance scoring - Offline (local installed)
@@ -229,6 +231,7 @@
 - https://uncss-online.com
 - https://www.jitbit.com/unusedcss
 - https://purifycss.online
+- https://cssstats.com
 
 ## 3.5 Unused CSS - Offline
 - **https://github.com/Drupal-Jedi/css-tree-shaking**
@@ -343,6 +346,7 @@
 - [CodePen - Performance Budget Builder](https://codepen.io/bradfrost/pen/EPQVBp)
 - https://github.com/tkadlec/grunt-perfbudget
 - https://micmro.github.io/PerfCascade
+- https://github.com/filamentgroup/glyphhanger
 
 ---
 
