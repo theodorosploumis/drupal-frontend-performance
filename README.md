@@ -317,6 +317,7 @@
 - https://github.com/avalanche123/Imagine (PHP library)
 - https://glide.thephpleague.com (PHP library)
 - http://image.intervention.io (PHP library)
+- https://github.com/joedicastro/img4web (Python script)
 
 ## 3.10 Image optimization - Offline GUI
 - https://www.xnview.com/en/xnconvert
@@ -353,6 +354,7 @@
 # 4. Guides & Resources
 ## 4.1 Collections of tools, posts etc
 - https://github.com/fabkrum/web-performance-resources
+- https://developer.yahoo.com/performance/rules.html
 - https://perf.rocks
 - https://www.perf-tooling.today
 - https://web.dev 
