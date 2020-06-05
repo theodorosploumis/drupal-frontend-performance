@@ -96,6 +96,8 @@
 <link href="desktop.css" rel="stylesheet" media="(min-width: 720px)">
 ```
 - [ ] Investigate using functional css instead of custom styles (eg [Tailwind](https://tailwindcss.com), [Tachyons](https://tachyons.io) etc. See more at https://css-tricks.com/need-css-utility-library)
+- [ ] If you are able to run (automated) builds do not include compiled css or js in your vcs code but only their sources
+
 
 ## 1.4 JS
 
@@ -115,7 +117,7 @@
   - [ ]  15-30% smaller than gzip
 - [ ]  Compress with gzip, or zopfli as a fallback to brotli
 - [ ]  Do not ship unused css, js
-- [ ] Try to clone external js/css to local server and load them from there (eg Google Analytics script)
+- [ ]  Try to clone external js/css to local server and load them from there (eg Google Analytics script)
 
 ## 1.6 Fonts
 
@@ -205,6 +207,7 @@
 - https://www.checkbot.io
 - https://whatdoesmysitecost.com
 - https://compare.sitespeed.io (Beta)
+- https://www.drupalaudit.com
 
 ## 3.2 Performance scoring - Offline (local installed)
 - https://www.sitespeed.io
