@@ -176,8 +176,8 @@
 - https://www.drupal.org/project/webp
 
 ## 2.4 Other
-- https://www.drupal.org/project/quicklink
-- https://www.drupal.org/project/minifyhtml
+- **https://www.drupal.org/project/quicklink**
+- **https://www.drupal.org/project/minifyhtml**
 - https://www.drupal.org/project/critical_css
 - https://www.drupal.org/project/amp
 - https://www.drupal.org/project/amp_cts
