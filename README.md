@@ -321,6 +321,7 @@
 - https://glide.thephpleague.com (PHP library)
 - http://image.intervention.io (PHP library)
 - https://github.com/joedicastro/img4web (Python script)
+- https://fengyuanchen.github.io/compressorjs (JS library)
 
 ## 3.10 Image optimization - Offline GUI
 - https://www.xnview.com/en/xnconvert
