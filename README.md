@@ -387,7 +387,6 @@
 - https://www.taskade.com/v/H1XaaoP0Ab
 - https://jonyablonski.com/designers-wpo-checklist
 - https://github.com/TerribleDev/WebPerformanceChecklist
-- https://webaud.it
 - https://docs.google.com/spreadsheets/d/1PQTsn_A24CCSXtp8NcXg3ciL6IVa9LVJ_fG_e9oEH_0
 
 --- 
