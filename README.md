@@ -364,6 +364,7 @@
 - https://web.dev 
 - https://browserdiet.com
 - https://css-tricks.com/tools-for-optimizing-svg
+- https://moz.com/learn/seo/page-speed
 
 ## 4.2 Image Optimization
 - https://images.guide
