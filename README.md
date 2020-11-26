@@ -385,6 +385,7 @@
 
 # 5. Similar projects
 - https://frontendchecklist.io
+- https://web.dev/fast
 - https://www.taskade.com/v/H1XaaoP0Ab
 - https://jonyablonski.com/designers-wpo-checklist
 - https://github.com/TerribleDev/WebPerformanceChecklist
