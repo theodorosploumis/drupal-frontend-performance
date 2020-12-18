@@ -162,7 +162,7 @@
 - https://www.drupal.org/project/fastly
 - https://www.drupal.org/project/stackpath
 
-## 2.3 Image optimmizations
+## 2.3 Image optimizations
 - https://www.drupal.org/docs/8/mobile-guide/responsive-images-in-drupal-8
 - https://www.drupal.org/project/lazy
 - https://www.drupal.org/project/blazy
