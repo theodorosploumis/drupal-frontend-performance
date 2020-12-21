@@ -368,6 +368,7 @@
 
 ## 4.2 Image Optimization
 - https://images.guide
+- https://css-tricks.com/converting-and-optimizing-images-from-the-command-line
 - https://jeremy.codes/blog/bulk-image-optimization-in-bash
 - https://jeremy.codes/blog/faster-bulk-image-optimization-in-bash
 - https://guides.wp-bullet.com/batch-optimize-jpg-lossy-linux-command-line-with-jpeg-recompress
