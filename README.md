@@ -310,6 +310,7 @@
 - https://github.com/kohler/gifsicle
 
 **General**
+- https://github.com/ravgeetdhillon/create-optimize-images (bash wrapper)
 - https://github.com/libvips/libvips
 - https://github.com/imagemin/imagemin
 - https://github.com/imagemin/imagemin-cli
