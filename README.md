@@ -208,6 +208,8 @@
 - https://whatdoesmysitecost.com
 - https://compare.sitespeed.io (Beta)
 - https://www.drupalaudit.com
+- https://webhint.io
+- https://waterfaller.dev
 
 ## 3.2 Performance scoring - Offline (local installed)
 - https://www.sitespeed.io
